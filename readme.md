@@ -10,4 +10,6 @@ setup.py is a config file for pytest
 
 Just Run:
 
-docker compose up --build to get it to run and go to locahost to see the site.
+docker compose up --build to get it to run and go to localhost to see the site.
+
+Python Project Setup screenshot: <img src="screenshots/is218_site.PNG" alt="name screenshot">
